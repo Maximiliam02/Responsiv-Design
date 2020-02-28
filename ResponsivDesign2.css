@@ -1,0 +1,14 @@
+body{
+    	
+    background-color:blue;
+}
+
+
+.circle {
+border-radius: 100%;
+width:100vh;
+height: 100vh;
+background: orange;
+    margin-left: 25vw;
+    margin-right:25vw;
+}
